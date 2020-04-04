@@ -1,8 +1,10 @@
 # Decoding CAN Data
 Simple CAN decoding 
 
-``python-2.7 ``
+``python-2.7``
+
 ``pip install python-can``
+
 ``sudo apt install can-utils``
 
 ### Additional Information:
